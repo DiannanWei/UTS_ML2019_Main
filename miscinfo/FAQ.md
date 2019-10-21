@@ -2,8 +2,7 @@
 
 * Word Count
 
-Follow the sepcification, as the page number in subject outline may not be a good measurement of the volume as the document contains graphics, tables and other
-formatting matters. The volume is suggestive and not requirement anyway, as long as your description is clear, and your argument logically supports what
+Follow the sepcification, as the page number in subject outline may not be a good measurement of the volume as the document contains graphics, tables and other formatting matters. The volume is suggestive and not requirement anyway, as long as your description is clear, and your argument logically supports what
 you did, it is fine.
 
 * Design Data Structures/Plan Data Models and Tests
@@ -72,3 +71,22 @@ No, this is too simple. But you can try to improve the spatial/time efficiency o
 * Performance of my implementation?
 
 It is not required to be competitive with industry-level implementations. You need only to show that your implementation works.
+
+# A3
+
+* Word Count
+
+No hard requirement. For both 32513 and 31005, try to make a report as concise as possible while covering points in the specification. As a guideline, a typical answer (31005) may contain 1000 words, and a typical proposal (32513) may contain 1200 words. Both word counts are text body only.
+
+
+Do NOT inflate the report with enlarged figures or unorganised program outputs.
+
+* Video Pitch (32513)
+
+See above (video pitch for 31005 A2). Of course, the pitch should be relevant to your proposal, e.g. replacing "what learned from te project" with "deployment/commercialisation considerations".
+
+You can talk slides or present the pitch by yourself in front a camera, or both.
+
+* PDF Submission: Is it compulsory to export the PDF file from Jupiter Notebook?
+
+No. A3 does not require implementation. Thus if your report doesn't contain code but instead containing a lot of graphics that you would like to edit and use in other word processing software, stay with what you are familiar with.
